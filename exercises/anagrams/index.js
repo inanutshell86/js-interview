@@ -16,8 +16,6 @@ function anagrams(stringA, stringB) {
     return cleanString(stringA) === cleanString(stringB);
 }
 
-module.exports = anagrams;
-
 /* function isEquivalent(a, b) {
     const aProps = Object.getOwnPropertyNames(a);
     const bProps = Object.getOwnPropertyNames(b);
