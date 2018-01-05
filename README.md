@@ -12,3 +12,5 @@
 11. Reversestring
 12. Steps
 13. Vowels
+14. Stack
+15. Queue from stack
