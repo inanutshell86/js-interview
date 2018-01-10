@@ -15,3 +15,5 @@
 14. Stack
 15. Queue from stack
 16. Linked List
+17. Midpoint
+18. Circular
