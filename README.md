@@ -17,3 +17,4 @@
 16. Linked List
 17. Midpoint
 18. Circular
+19. Tree
