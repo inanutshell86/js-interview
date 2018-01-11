@@ -22,3 +22,4 @@
 21. Binary search tree
 22. Validate
 23. Events
+24. Sorting
