@@ -18,3 +18,4 @@
 17. Midpoint
 18. Circular
 19. Tree
+20. Level width
